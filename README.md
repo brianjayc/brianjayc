@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Brian!
+- 👀 I’m interested in computers, linux and programming.
+- 🌱 I’m currently learning front end web development.
+- 💞️ I’m looking to collaborate on anything related to front end web development.
