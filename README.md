@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Brian!
 - 👀 I’m interested in computers, linux and programming.
-- 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on anything related to computers, linux and programming.
+- 🌱 I’m currently learning go.
